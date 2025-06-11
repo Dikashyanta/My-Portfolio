@@ -218,9 +218,9 @@ h1 {
 }
 
 .html { width: 90%; background: #e74c3c; }
-.javascript { width: 85%; background: #f1c40f; }
+.javascript { width: 65%; background: #f1c40f; }
 .react { width: 80%; background: #61dafb; }
-.php { width: 85%; background: #2ecc71; }
+.php { width: 50%; background: #2ecc71; }
 .python { width: 75%; background: #9b59b6; }
 
 /* Projects Section */
